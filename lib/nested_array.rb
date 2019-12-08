@@ -31,7 +31,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
-  matrix_revolution = array = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+  matrix_revolution = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
   matrix_revolution[1][1]
 end
 
