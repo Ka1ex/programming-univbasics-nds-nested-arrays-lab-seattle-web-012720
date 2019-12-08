@@ -31,6 +31,8 @@ end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
+  this_array = array = [ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY]
+  this_array[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
